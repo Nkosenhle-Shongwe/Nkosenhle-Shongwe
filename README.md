@@ -21,8 +21,9 @@ I am a 19-year-old student passionate about the intersection of **Statistics/Eco
 I believe that Data Science is the key to unlocking Eswatini’s digital future. I am focused on mastering the tools of ML and AI to solve complex problems in finance, social sciences, and beyond.
 
 ### 📫 Connect with me
-- **LinkedIn:** [https://www.linkedin.com/in/nkosenhle-shongwe-88a894371/]
-- **Twitter/X:** [https://x.com/tsotleshongwe]
 - **Email:** [tsotleshongwe@gmail.com]
+- **LinkedIn:** [https://www.linkedin.com/in/nkosenhle-shongwe-88a894371/]
+- **Instagram** [https://www.instagram.com/tsotle.shongwe/]
+- **Twitter/X:** [https://x.com/tsotleshongwe]
 
 *"Harnessing the power of data to lead the next generation of tech in Eswatini."*
