@@ -3,7 +3,7 @@
 ### 📊 Aspiring Data Scientist | ML & AI Engineer 
 **University of Eswatini (UNESWA) | Statistics & Economics Major**
 
-I am a 19-year-old student passionate about the intersection of **Economic Theory** and **Artificial Intelligence**. Currently based in Eswatini, I am leveraging my background in Statistics to build a career in Machine Learning and Deep Learning.
+I am a 19-year-old student passionate about the intersection of **Statistics/Economic** and **Artificial Intelligence**. Currently based in Eswatini, I am leveraging my background in Statistics to build a career in Data Science.
 
 ---
 
