@@ -1,16 +1,28 @@
-## Hi there 👋
+# Hi, I'm Nkosenhle Shongwe,👋
 
-<!--
-**Nkosenhle-Shongwe/Nkosenhle-Shongwe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 📊 Aspiring Data Scientist | ML & AI Engineer 
+**University of Eswatini (UNESWA) | Statistics & Economics Major**
 
-Here are some ideas to get you started:
+I am a 19-year-old student passionate about the intersection of **Economic Theory** and **Artificial Intelligence**. Currently based in Eswatini, I am leveraging my background in Statistics to build a career in Machine Learning and Deep Learning.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🎓 Academic & Professional Focus
+- 🏫 **University:** Currently enrolled at University of Eswatini (Bachelor of Arts in Social Sciences).
+- 📈 **Majors:** Statistics and Economics
+- 🧠 **Research Interest:** Using Deep Learning to model economic trends and social impact data.
+- 👥 **Leadership:** Experienced in leadership, bringing a "people-first" mindset to technical projects.
+
+### 🛠️ Technical Toolkit
+- **Data Analysis:** Statistical Modeling.
+- **Mathematics:** Solid foundation in Calculus, Linear Algebra, and Probability.
+
+### 🚀 My Mission
+I believe that Data Science is the key to unlocking Eswatini’s digital future. I am focused on mastering the tools of ML and AI to solve complex problems in finance, social sciences, and beyond.
+
+### 📫 Connect with me
+- **LinkedIn:** [https://www.linkedin.com/in/nkosenhle-shongwe-88a894371/]
+- **Twitter/X:** [https://x.com/tsotleshongwe]
+- **Email:** [tsotleshongwe@gmail.com]
+
+*"Harnessing the power of data to lead the next generation of tech in Eswatini."*
